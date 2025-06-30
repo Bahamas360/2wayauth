@@ -13,5 +13,10 @@
     "username": "Test",
     "password": "$2b$10$/eB/6ibw.qMEGfPT/FiR/enk8uklzxaEkc.wcsFC68uX43BxzG1ZW",
     "phone": "6bd58d792b9880f30fd577d59260a6cd"
+  },
+  {
+    "username": "test1",
+    "password": "$2b$10$kuPjqyBAEYnnTDKJWYkcEuAW0fS6lOFO15fR2kIojkFM3h7p3pXsG",
+    "phone": "198827345a9fa6672b4d5686ff43c953"
   }
 ]
