@@ -1,4 +1,4 @@
-Step1 Copy: repo
+Step1 Copy: repo once done in the zip file submited there is a .env file download that to the main directory with out it messaging wont work
 
 Step2 install node.js
 
