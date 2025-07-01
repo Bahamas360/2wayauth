@@ -18,5 +18,30 @@
     "username": "test1",
     "password": "$2b$10$kuPjqyBAEYnnTDKJWYkcEuAW0fS6lOFO15fR2kIojkFM3h7p3pXsG",
     "phone": "198827345a9fa6672b4d5686ff43c953"
+  },
+  {
+    "username": "Test",
+    "password": "$2b$10$GsGLVykJFAN2BF1a8xw9..E9ieYQ6.gQ0C/9SiqhcYowAzhqemvNW",
+    "phone": "c50e449d81c85d9973ad67c86d64aca0"
+  },
+  {
+    "username": "skndks",
+    "password": "$2b$10$tIANkevrw6zr.cdIBAoKyekshSRa5DdbJoXh42fAUxX.fgFp/yXt6",
+    "phone": "12e5c31823bc1631589e367d68a54b7e"
+  },
+  {
+    "username": "testing123",
+    "password": "$2b$10$hDeFAgRdoPKPUyJGp70W0eYpwIbUpmh8koKnK40fi5OJFPqm5TKVS",
+    "phone": "c50e449d81c85d9973ad67c86d64aca0"
+  },
+  {
+    "username": "testing12",
+    "password": "$2b$10$ILIikjicB38Eaa9SKkLqZePK3btbi5cYPhhf2ZlVIFexafiQek9Dm",
+    "phone": "c50e449d81c85d9973ad67c86d64aca0"
+  },
+  {
+    "username": "testing23",
+    "password": "$2b$10$1zC86I2huRqLC8Br3WJlUOHRZrPZ1X9fcTp7yuTU1XH5IcG6eepya",
+    "phone": "c50e449d81c85d9973ad67c86d64aca0"
   }
 ]

@@ -58,12 +58,15 @@ app.post('/register', async (req, res) => {
 
   users.push(newUser);
 
- try {
-  fs.writeFileSync(usersFile, JSON.stringify(users, null, 2), 'utf8');
-  console.log('User saved:', newUser.username);
-} catch (err) {
-  console.error('Failed to write to userInfo.json:', err);
-}
+  try {
+    fs.writeFileSync(usersFile, JSON.stringify(users, null, 2), 'utf8');
+    console.log('User saved:', newUser.username);
+    return res.send(`<script>alert('Registered successfully!'); window.location.href = '/index.html';</script>`);
+  } catch (err) {
+    console.error('Failed to write to userInfo.json:', err);
+    return res.send(`<script>alert('Failed to save user'); window.location.href = '/register.html';</script>`);
+  }
+//alert("User registered successfully")
   //res.json({ message: 'User registered successfully!' });
 });
 function decrypt(hex) {
